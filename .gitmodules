@@ -4,3 +4,6 @@
 [submodule "bundle/syntastic"]
 	path = bundle/syntastic
 	url = https://github.com/scrooloose/syntastic.git
+[submodule "bundle/vim-paren-crosshairs"]
+	path = bundle/vim-paren-crosshairs
+	url = https://github.com/chreekat/vim-paren-crosshairs.git

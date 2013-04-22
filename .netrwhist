@@ -1,5 +1,5 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =7
+let g:netrw_dirhist_cnt =8
 let g:netrw_dirhist_1='/home/austin/c++'
 let g:netrw_dirhist_2='/media/Bifrost/newSystem/Downloads/DrawPlay/src'
 let g:netrw_dirhist_3='/media/Bifrost/newSystem/Documents/Programming/python/rogue'
@@ -7,3 +7,4 @@ let g:netrw_dirhist_4='/media/Bifrost/newSystem/Documents/Programming/python/rog
 let g:netrw_dirhist_5='/media/Bifrost/newSystem/Documents/Programming/python/pygameRPG'
 let g:netrw_dirhist_6='/home/austin/abs/dwm/src/dwm-6.0'
 let g:netrw_dirhist_7='/home/austin/rcs'
+let g:netrw_dirhist_8='/home/austin/Documents/programs/rogueCurses'
