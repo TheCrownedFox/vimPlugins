@@ -10,3 +10,9 @@
 [submodule "bundle/conqueTerm"]
 	path = bundle/conqueTerm
 	url = https://github.com/dhazel/conque-term.git
+[submodule "bundle/rainbow_parentheses"]
+	path = bundle/rainbow_parentheses
+	url = https://github.com/kien/rainbow_parentheses.vim
+[submodule "bundle/vim-fish"]
+	path = bundle/vim-fish
+	url = https://github.com/dag/vim-fish
